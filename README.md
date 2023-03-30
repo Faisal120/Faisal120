@@ -1,12 +1,12 @@
-Hi 👋 My name is Faisal Ansari
+Hi 👋 Faisal this side, Am Available for Freelance Work...
 ==============================
 
-Full-Stack Android Developer
+Application Developer
 ----------------------------
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [fk1571515@gmail.com](mailto:fk1571515@gmail.com)
-* 🚀  I'm currently working on [Spi Dish](http://github.com/Faisal120/Spidish)
+* 🚀  I'm currently working on [Fabulaa - Assistive Speech](https://play.google.com/store/apps/details?id=com.fabulaa.free)
 * 🧠  I'm learning Data Structures and Algorithms
 
 <a href="https://www.github.com/Faisal120" target="_blank" rel="noreferrer"><img

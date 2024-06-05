@@ -6,7 +6,7 @@ Application Developer
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [fk1571515@gmail.com](mailto:fk1571515@gmail.com)
-* 🚀  I'm currently working on [Fabulaa - Assistive Speech](https://play.google.com/store/apps/details?id=com.fabulaa.free)
+* 🚀  I'm currently working as Flutter Developer
 * 🧠  I'm learning Data Structures and Algorithms
 
 <a href="https://www.github.com/Faisal120" target="_blank" rel="noreferrer"><img
